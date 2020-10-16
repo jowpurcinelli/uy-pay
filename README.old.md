@@ -1,2 +1,2 @@
 # uyPay
-Payment Plaform
+Payment Platform
